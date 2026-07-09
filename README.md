@@ -65,5 +65,5 @@ MIT — bebas dipakai, dimodifikasi, dan dibagikan ulang.
 
 Laporan bug atau request fitur silakan buka [Issues](../../issues).
 
-##🥐Credit
+## 🥐Credit
 YT: @zii245
